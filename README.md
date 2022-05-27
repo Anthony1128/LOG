@@ -1,8 +1,8 @@
 # Web-application
-## Ссылка на приложение
+## Link to an App
 https://logs4.herokuapp.com/
-## Описание
-Концепт - ведение журнала тем и создание записей в этом журнале, включая цикл авторизации/регистрации.
-## Реализация
-Приложение выполненно с помощью фреймворка Django, и развернуто на серверах Heroku. 
+## Description
+Concept - manage and create your notes by Topics, including authorizaton/registration.
+## Implementation
+Application is done using Django framework and deployed in Heroku servers. 
 

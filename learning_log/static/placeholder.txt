@@ -1,2 +1,2 @@
-'''Этот файл необходим для включения в проект каталога learning_log/static/.
-Django собирает статические файлы и помещает их в каталог learning_log/static/.'''
+'''This file is needed to include the directory learning_log/static/.
+Django collects static files and stores them in learning_log/static/.'''
